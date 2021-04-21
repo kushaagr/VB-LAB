@@ -125,6 +125,11 @@ Public Class Form7
         End If
     End Sub
 
+    Private Sub FindToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles FindToolStripMenuItem.Click
+        Dim Find As New Form7_1vb
+        Find.Show()
+    End Sub
+
     'Dim formname As String
     'Private Sub form7_load(sender As Object, e As EventArgs) Handles MyBase.Load
     '    formname = Me.Text
