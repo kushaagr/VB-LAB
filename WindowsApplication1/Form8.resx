@@ -117,48 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="MenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="NewToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAABKJJREFUeF7t
-        mTnMVUUYhn/cEsFEsTSKWBBLiVbghsTKwliKYOgEOmPhAol7XNBGsTUqGAtC6JSEgCSICTRoa2tcIS4Q
-        o5KA8j7D/e4/d+7MOXO2cP+feZI3ud83y5n5zpn1zhUKhUKhUCgUCoUrluukt6WfpP8XiX6U3pLoWy1k
-        jFWyGPSmVAvRIvNaZy0O7pPoE32rxaK12MjuV9sAfC0du/RzTK4Pupavo3UAeKD5fIWNML9Prg9y88Z8
-        OW00Xy1hxq8k8/k6KvmY36fKd0L6bSR+V+X1ifly2uj7K1cFy9QUGhEGxfddLe2Q/pP8xvgibbt0lQR1
-        dTYh9rzoqmCJfXKN9JlEvRekjyRm5ptGul/6WCKNPJ9KBKxP/H5Vrgp+xr54V6LO36V1OBI8JP0hkZfN
-        WJ+E/QrtMcmEltwr8Wn/K63BUQP7j3MSZfrci4T9SvYzmdASZmLqe9FZebwsUYbx3hdhv0J7TDKhBfdI
-        1MVMfz2OTJZJDBfKrsbRA2G/QntMMkHcJu2Tzo60X7pTSvG6RF3vOasZuyTKvuqs7oT9Cu0xqQQ6z5u0
-        dBO+W6UYRyTyPOqsZjwmUfaws+YZ4rQ6sS8wZwhvHv/nEh1GX4x8e6UYP0ukr3BWM1ZKlA2XqiFPq25f
-        YEYInzx+/23zVeA746xpmPlJX+qsZlCGsv84ax4Cgr/PFWJiX8APFFIVgD+dNU2XADARUjYMwCkJP43u
-        CzZi1End7gcKYcLDz2dPx9GBkY/hEcOGwO3OakZqCLwj4R9CO6WxEcJsn5oEV0kxvpTI02USPOSsedhW
-        Mwn+Jfnt6CoCS91jRww+fyY8xjzizac6D69J1PW+s5rxgUTZV5w1DRsr0vc4qx2bJOo47qwROFAf3C1R
-        F5uaJvMA49/OBHfhiMDKwuHpb+lGHC1gieUZW5w1os8AANtZ6nvJWXnw1ilTd+w9KJFvq7OacYcUDWDf
-        AWC5ssNQztLF4YnDEI2rOzw9LtHWb6UlOBpgJ9SpIdR3AIDZlTr5rNfjSPCwxJJK3pwrbHZu30vkfwJH
-        JkzovHlezNRZY4gAcLnBJQf18mY/kR6Qlo/0oLRbokHk4XfuhchmiTIEjjmnjluk7yTKfIgjhATUFC4m
-        q25wueZ6QbJOxkTa85JdidXVaVhwWZk24kjwiGQ7yZPSDdIU1hiDB5rPV9gI8/tU+fq8FL1WYixbGkEM
-        eUaydPYnfHlRLJNhs3iocIY2v0+uD3LzxnzGNom0086axLbQz0n2hUWpekAVsdvaXB90LQ+s57T9V2dN
-        MngALicMAW6Vre3PSiFPS5bOPcXNUhSbJPo8bQ0J6z/X7LSZEyvb2xRMgnwd5E1Ogqy/FqmFJJZB7iDr
-        4JRpyyCBm4LNBUGwL2Gh6EkpF84X7EyjG6EQe8AsskGibd84qxl2r1B7mpzlAHQ5DDEU7DDE33NJZjUA
-        3E2cl2o7UIFd2DzlrASzuipwvKZdXS5EmDeoY+JCJGShrgpNNb4SC1moq0IbuUvRWecXicYO8b+Auxaf
-        dYaYk+x/gR+cNeMMOSe9Ic08Q8xJvHk67/4cLRQKhUKhcCUyN3cR/WCYpchxpuEAAAAASUVORK5CYII=
-</value>
-  </data>
-  <metadata name="OpenFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>153, 17</value>
-  </metadata>
-  <metadata name="SaveFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 60</value>
-  </metadata>
-  <metadata name="ColorDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>181, 60</value>
-  </metadata>
-  <metadata name="FontDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 103</value>
-  </metadata>
-  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>168</value>
-  </metadata>
 </root>
