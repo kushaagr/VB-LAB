@@ -30,7 +30,7 @@ Partial Class Form8
         Me.Button1.Dock = System.Windows.Forms.DockStyle.Top
         Me.Button1.Location = New System.Drawing.Point(0, 0)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(468, 94)
+        Me.Button1.Size = New System.Drawing.Size(239, 94)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "Connect Database"
         Me.Button1.UseVisualStyleBackColor = True
@@ -39,7 +39,7 @@ Partial Class Form8
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(468, 330)
+        Me.ClientSize = New System.Drawing.Size(239, 194)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form8"
         Me.Text = "Form8"
