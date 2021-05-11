@@ -28,8 +28,8 @@ Partial Class Form9
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.TextBox2 = New System.Windows.Forms.TextBox()
         Me.Panel1 = New System.Windows.Forms.Panel()
-        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.Label3 = New System.Windows.Forms.Label()
+        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
         Me.Button4 = New System.Windows.Forms.Button()
@@ -66,7 +66,7 @@ Partial Class Form9
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(147, 14)
+        Me.TextBox1.Location = New System.Drawing.Point(147, 11)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(160, 22)
         Me.TextBox1.TabIndex = 3
@@ -92,14 +92,6 @@ Partial Class Form9
         Me.Panel1.Size = New System.Drawing.Size(319, 139)
         Me.Panel1.TabIndex = 5
         '
-        'ComboBox1
-        '
-        Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Location = New System.Drawing.Point(147, 97)
-        Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(160, 24)
-        Me.ComboBox1.TabIndex = 6
-        '
         'Label3
         '
         Me.Label3.AutoSize = True
@@ -108,6 +100,14 @@ Partial Class Form9
         Me.Label3.Size = New System.Drawing.Size(19, 17)
         Me.Label3.TabIndex = 7
         Me.Label3.Text = "id"
+        '
+        'ComboBox1
+        '
+        Me.ComboBox1.FormattingEnabled = True
+        Me.ComboBox1.Location = New System.Drawing.Point(147, 97)
+        Me.ComboBox1.Name = "ComboBox1"
+        Me.ComboBox1.Size = New System.Drawing.Size(160, 24)
+        Me.ComboBox1.TabIndex = 6
         '
         'Button2
         '
