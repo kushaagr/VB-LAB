@@ -26,4 +26,4 @@ _TODO_ |
 * Edit and commit to that branch
 * Before making a pull-request, make sure your local clone of this 
   repo. is up-to-date by issuing `git pull` in the main branch
-* Open pull request
+* Issue `git push` on new branch and open pull request
