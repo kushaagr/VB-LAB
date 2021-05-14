@@ -27,7 +27,7 @@ I update this repo. the moment LAB session ends.
 ## Instructions to download this repo:
 
 ### For people unfamiliar with Git
-* Go to repository's [root page](http://github.com/kushaagr/VB-LAB)
+* In __desktop__ browser, open repository's [root page](http://github.com/kushaagr/VB-LAB)
 * Make sure you are on the main branch ie. the dropdown
   on top left shows "main" or "master"
 * Click on the green button on top right named "Code"
