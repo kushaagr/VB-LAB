@@ -18,7 +18,8 @@ _TODO_ |
   on top left shows "main" or "master"
 * Click on the green button on top right named "Code"
 * Download as zip
-### For people familiar with Git
+
+## Contributing
 * Clone the repo
 * Before making any new edits in the repo, create a new branch
 * Checkout new branch
