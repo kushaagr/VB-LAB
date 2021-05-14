@@ -6,7 +6,6 @@ for anyone to review or revisit what was taught.
 I update this repo. the moment LAB session ends.
 
 
-
 ## Table of Contents:
 
 | Form   | Function |
@@ -20,11 +19,9 @@ I update this repo. the moment LAB session ends.
 | Form 7<sup>[3](#footnote3)</sup> | Custom Notepad application with RTF files support |
 | Form 8 & 9 | Database access application |
 
-<a name="footnote1">1</a>: The code in Form3.vb is heavily modified from what was taught in LAB. The original code could be found in [Form3#1.vb](./WindowsApplication1/Form3#1.vb) file.
-<a name="footnote2">2</a>: I created this form to add some additional functionality in my Calculator application (Form3), and is thus unrelated to what was taught in LAB.
-<a name="footnote3">3</a>: Code isn't complete yet, some functions are broken.
-
-
+<a name="footnote1">1</a>: The code in Form3.vb is heavily modified from what was taught in LAB. The original code could be found in [Form3#1.vb](./WindowsApplication1/Form3%231.vb) file.  
+<a name="footnote2">2</a>: I created this form to add some additional functionality in my Calculator application (Form3), and is thus unrelated to what was taught in LAB.  
+<a name="footnote3">3</a>: Code isn't complete yet, some functions are broken.  
 
 
 ## Instructions to download this repo:
@@ -35,7 +32,6 @@ I update this repo. the moment LAB session ends.
   on top left shows "main" or "master"
 * Click on the green button on top right named "Code"
 * Download as zip
-
 
 
 ## Contributing
