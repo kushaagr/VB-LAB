@@ -20,7 +20,7 @@ I update this repo. the moment LAB session ends.
 | Form 7a| Find tool for MyNotepad application |
 | Form 8 & 9 | Database access application |
 | Form 9a | DataGridView control |
-| Form 01<sup>[\[4\]](#footnote)</sup> | MDI container form |
+| Form 01<sup>[\[4\]](#footnote4)</sup> | MDI container form |
 
 <a name="footnote1">1</a>: The code in Form3.vb is heavily modified from what was taught in LAB. The original code could be found in [Form3#1.vb](./WindowsApplication1/Form3%231.vb) file.  
 <a name="footnote2">2</a>: I created this form to add some additional functionality in my Calculator application (Form3), and is thus unrelated to what was taught in LAB.  
