@@ -2,7 +2,7 @@
 
 Public Class Form9
 
-    Dim DtDr As SqlDataReader
+    'Dim DtDr As SqlDataReader
     Dim oConnection As New SqlConnection(
         "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Database_one;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
         )
@@ -76,7 +76,7 @@ Public Class Form9
 
     End Sub
 
-    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+    Private Sub Button4_Click(sender As Object, e As EventArgs)
         'MessageBox.Show(ComboBox1.Text.GetType().ToString())
     End Sub
 

@@ -1,5 +1,5 @@
-﻿Public Class Form7_1vb
-    Dim location As Integer
+﻿Public Class Form7a
+    'Dim loc As Integer
     'Dim oldColor As Color
 
     'Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click

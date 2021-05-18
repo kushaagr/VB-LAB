@@ -32,7 +32,6 @@ Partial Class Form9
         Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
-        Me.Button4 = New System.Windows.Forms.Button()
         Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -129,23 +128,11 @@ Partial Class Form9
         Me.Button3.Text = " Update"
         Me.Button3.UseVisualStyleBackColor = True
         '
-        'Button4
-        '
-        Me.Button4.Dock = System.Windows.Forms.DockStyle.Top
-        Me.Button4.Enabled = False
-        Me.Button4.Location = New System.Drawing.Point(0, 139)
-        Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(319, 32)
-        Me.Button4.TabIndex = 10
-        Me.Button4.Text = "test"
-        Me.Button4.UseVisualStyleBackColor = True
-        '
         'Form9
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(319, 440)
-        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Panel1)
@@ -168,5 +155,4 @@ Partial Class Form9
     Friend WithEvents Label3 As Label
     Friend WithEvents Button2 As Button
     Friend WithEvents Button3 As Button
-    Friend WithEvents Button4 As Button
 End Class

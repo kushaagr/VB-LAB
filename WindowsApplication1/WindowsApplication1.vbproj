@@ -99,10 +99,10 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form10.Designer.vb">
-      <DependentUpon>Form10.vb</DependentUpon>
+    <Compile Include="Form01.Designer.vb">
+      <DependentUpon>Form01.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form10.vb">
+    <Compile Include="Form01.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form2.Designer.vb">
@@ -141,10 +141,10 @@
     <Compile Include="Form7.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form7_1vb.Designer.vb">
-      <DependentUpon>Form7_1vb.vb</DependentUpon>
+    <Compile Include="Form7a.Designer.vb">
+      <DependentUpon>Form7a.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form7_1vb.vb">
+    <Compile Include="Form7a.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form8.Designer.vb">
@@ -159,10 +159,10 @@
     <Compile Include="Form9.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form91.Designer.vb">
-      <DependentUpon>Form91.vb</DependentUpon>
+    <Compile Include="Form9a.Designer.vb">
+      <DependentUpon>Form9a.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form91.vb">
+    <Compile Include="Form9a.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -186,8 +186,8 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form10.resx">
-      <DependentUpon>Form10.vb</DependentUpon>
+    <EmbeddedResource Include="Form01.resx">
+      <DependentUpon>Form01.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.vb</DependentUpon>
@@ -207,8 +207,8 @@
     <EmbeddedResource Include="Form7.resx">
       <DependentUpon>Form7.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form7_1vb.resx">
-      <DependentUpon>Form7_1vb.vb</DependentUpon>
+    <EmbeddedResource Include="Form7a.resx">
+      <DependentUpon>Form7a.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form8.resx">
       <DependentUpon>Form8.vb</DependentUpon>
@@ -216,8 +216,8 @@
     <EmbeddedResource Include="Form9.resx">
       <DependentUpon>Form9.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form91.resx">
-      <DependentUpon>Form91.vb</DependentUpon>
+    <EmbeddedResource Include="Form9a.resx">
+      <DependentUpon>Form9a.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

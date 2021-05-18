@@ -127,7 +127,7 @@ Public Class Form7
     End Sub
 
     Private Sub FindToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles FindToolStripMenuItem.Click
-        Dim Find As New Form7_1vb
+        Dim Find As New Form7a
         Find.Show()
     End Sub
 

@@ -1,5 +1,5 @@
 ﻿Imports System.Data.SqlClient
-Public Class Form91
+Public Class Form9a
     Dim oConnection As New SqlConnection(
         "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Database_one;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
         )
@@ -20,7 +20,7 @@ oConnection)
         DataGridView1.DataSource = Dt
     End Sub
 
-    Private Sub Button1_Click(sender As Object, e As EventArgs) 
+    Private Sub Button1_Click(sender As Object, e As EventArgs)
 
     End Sub
 
@@ -35,5 +35,9 @@ oConnection)
             'DataGridView1.CurrentRow.Cells(0).Value
 
         End If
+    End Sub
+
+    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
+
     End Sub
 End Class

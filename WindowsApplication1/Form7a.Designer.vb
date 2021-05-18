@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
-Partial Class Form91
+Partial Class Form7a
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -22,33 +22,40 @@ Partial Class Form91
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
-        'DataGridView1
+        'Button1
         '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Dock = System.Windows.Forms.DockStyle.Top
-        Me.DataGridView1.Location = New System.Drawing.Point(0, 0)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.RowHeadersWidth = 51
-        Me.DataGridView1.RowTemplate.Height = 24
-        Me.DataGridView1.Size = New System.Drawing.Size(359, 329)
-        Me.DataGridView1.TabIndex = 0
+        Me.Button1.Location = New System.Drawing.Point(253, 18)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 37)
+        Me.Button1.TabIndex = 0
+        Me.Button1.Text = "Find"
+        Me.Button1.UseVisualStyleBackColor = True
         '
-        'Form91
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(32, 25)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(194, 22)
+        Me.TextBox1.TabIndex = 1
+        '
+        'Form7_1vb
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(359, 458)
-        Me.Controls.Add(Me.DataGridView1)
-        Me.Name = "Form91"
-        Me.Text = "Form91"
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.ClientSize = New System.Drawing.Size(370, 70)
+        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.Button1)
+        Me.Name = "Form7_1vb"
+        Me.Text = "Form7_1vb"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
-    Friend WithEvents DataGridView1 As DataGridView
+    Friend WithEvents Button1 As Button
+    Friend WithEvents TextBox1 As TextBox
 End Class
