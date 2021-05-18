@@ -19,7 +19,7 @@ I update this repo. the moment LAB session ends.
 | Form 7<sup>[\[3\]](#footnote3)</sup> | Custom Notepad application with RTF files support |
 | Form 7a| Find tool for MyNotepad application |
 | Form 8 & 9 | Database access application |
-| Form 9a | DatagridView control |
+| Form 9a | DataGridView control |
 | Form 01<sup>[\[4\]](#footnote)</sup> | MDI container form |
 
 <a name="footnote1">1</a>: The code in Form3.vb is heavily modified from what was taught in LAB. The original code could be found in [Form3#1.vb](./WindowsApplication1/Form3%231.vb) file.  
