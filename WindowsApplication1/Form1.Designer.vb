@@ -120,7 +120,7 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.ClientSize = New System.Drawing.Size(300, 293)
+        Me.ClientSize = New System.Drawing.Size(354, 293)
         Me.Controls.Add(Me.output)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.input)
