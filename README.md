@@ -12,15 +12,15 @@ I update this repo. the moment LAB session ends.
 | ------ | -------- |
 | Form 1 | Single input basic calculator |
 | Form 2 | Two-variable Calculator with Error-Provider control |
-| Form 3<sup>[\[1\]](#footnote1)</sup> | Full-fledged 9-button Calculator application |
-| Form 4<sup>[\[2\]](#footnote2)</sup> | Custom Functionality for Form3 |
+| Form 3<sup>\[[1](#footnote1)\]</sup> | Full-fledged 9-button Calculator application |
+| Form 4<sup>[[2](#footnote2)\]</sup> | Custom Functionality for Form3 |
 | Form 5 | List-box control demonstration application |
 | Form 6 | Progress bar & Timer control |
-| Form 7<sup>[\[3\]](#footnote3)</sup> | Custom Notepad application with RTF files support |
+| Form 7<sup>[[3](#footnote3)\]</sup> | Custom Notepad application with RTF files support |
 | Form 7a| Find tool for MyNotepad application |
 | Form 8 & 9 | Database access application |
 | Form 9a | DataGridView control |
-| Form 01<sup>[\[4\]](#footnote4)</sup> | MDI container form |
+| Form 01<sup>[[4](#footnote4)\]</sup> | MDI container form |
 
 <a name="footnote1">1</a>: The code in Form3.vb is heavily modified from what was taught in LAB. The original code could be found in [Form3#1.vb](./WindowsApplication1/Form3%231.vb) file.  
 <a name="footnote2">2</a>: I created this form to add some additional functionality in my Calculator application (Form3), and is thus unrelated to what was taught in LAB.  
