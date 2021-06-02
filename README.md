@@ -48,10 +48,10 @@ I update this repo. the moment LAB session ends.
 
 ## Contributing
 
-* Clone the repo
-* Before making any new edits in the repo, create a __new branch__
+* *Clone* the repo
+* Before making any new edits in the repo, *create a **new** branch* 
 * __Checkout__ new branch
-* Edit and commit to that branch
+* Edit and commit to *that* branch
 * Before making a pull-request, make sure your local clone of this 
   repo. is up-to-date by issuing `git pull` in the __main__ branch
 * *Issue* `git push` on __new branch__ and *open* pull request
