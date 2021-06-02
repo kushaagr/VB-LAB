@@ -6,6 +6,7 @@ for anyone to review or revisit what was taught.
 I update this repo. the moment LAB session ends.
 
 
+
 ## Table of Contents:
 
 | Form   | Function |
@@ -36,6 +37,20 @@ I update this repo. the moment LAB session ends.
   on top left shows "main" or "master"
 * Click on the green button on top right named "Code"
 * Download as zip
+
+### Method two
+* Download [Git](https://git-scm.com/download/Win) (Windows) then Install Git
+
+* Open Git Bash
+
+* Copy this command:
+	```Bash
+	cd $HOME/downloads && git clone https://github.com/kushaagr/VB-LAB.git && explorer ".\VB-LAB"
+	```
+	
+* Right click and paste (keyboard shortcut `SHIFT` + `INS`) this command. __Hit Enter__.
+
+* A folder named VB-LAB should appear in your Downloads folder.
 
 
 ## Contributing
