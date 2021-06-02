@@ -40,16 +40,12 @@ I update this repo. the moment LAB session ends.
 
 ### Method two
 * Download [Git](https://git-scm.com/download/Win) (Windows) then Install Git
-
 * Open Git Bash
-
 * Copy this command:
 	```Bash
 	cd $HOME/downloads && git clone https://github.com/kushaagr/VB-LAB.git && explorer ".\VB-LAB"
 	```
-	
 * Right click and paste (keyboard shortcut `SHIFT` + `INS`) this command. __Hit Enter__.
-
 * A folder named VB-LAB should appear in your Downloads folder.
 
 
