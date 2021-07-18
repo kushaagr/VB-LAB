@@ -75,14 +75,14 @@ Partial Class Form01
         'DataGridViewToolStripMenuItem
         '
         Me.DataGridViewToolStripMenuItem.Name = "DataGridViewToolStripMenuItem"
-        Me.DataGridViewToolStripMenuItem.Size = New System.Drawing.Size(115, 24)
-        Me.DataGridViewToolStripMenuItem.Text = "DataGridView"
+        Me.DataGridViewToolStripMenuItem.Size = New System.Drawing.Size(164, 24)
+        Me.DataGridViewToolStripMenuItem.Text = "DataGridView (Fo.9a)"
         '
         'NotepadToolStripMenuItem
         '
         Me.NotepadToolStripMenuItem.Name = "NotepadToolStripMenuItem"
-        Me.NotepadToolStripMenuItem.Size = New System.Drawing.Size(82, 24)
-        Me.NotepadToolStripMenuItem.Text = "Notepad"
+        Me.NotepadToolStripMenuItem.Size = New System.Drawing.Size(123, 24)
+        Me.NotepadToolStripMenuItem.Text = "Notepad (Fo.7)"
         '
         'OtherAppsToolStripMenuItem
         '
