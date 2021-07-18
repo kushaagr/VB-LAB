@@ -17,7 +17,7 @@
         ProgressBar1.PerformStep()
         If (ProgressBar1.Value = ProgressBar1.Maximum) Then
             Timer1.Stop()
-            MessageBox.Show("Process Completed")
+            MessageBox.Show("Process completed")
         End If
     End Sub
 

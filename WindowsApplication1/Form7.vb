@@ -40,7 +40,7 @@ Public Class Form7
     Private Sub SaveToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles SaveToolStripMenuItem.Click
         Dim File As StreamWriter
         If (SaveFileDialog1.ShowDialog =
-            Windows.Forms.DialogResult.OK) Then
+        Windows.Forms.DialogResult.OK) Then
             'RichTextBox1.SaveFile(
             '    SaveFileDialog1.FileName)
             File = My.Computer.FileSystem.OpenTextFileWriter(
@@ -62,6 +62,7 @@ Public Class Form7
     ' file has unsaved changes     
     Sub ModifyTitle()
         Static Dim formName = Me.Text
+        'Dim formName = Me.Text
         If (IsEdited) Then
             Me.Text = $"*{formName}"
             'Me.Text = "*" + formName
@@ -160,7 +161,14 @@ Public Class Form7
         'Else
         '    RichTextBox1.RightMargin = oldMargin
         'End If
-
+        Dim formWidth = Me.Size.Width
+        Dim wrapLength As Integer = formWidth / 6
+        Dim a = WrapText(RichTextBox1.Text, wrapLength)
+        RichTextBox1.Text = ""
+        For Each word As String In a
+            RichTextBox1.Text &= word + Environment.NewLine
+        Next
+        Me.Text = $"{formWidth} + {wrapLength}"
     End Sub
 
     Private Sub Form7_Load(sender As Object, e As EventArgs) Handles Me.Load
@@ -171,11 +179,14 @@ Public Class Form7
         '    End If
         'Next
         'RichTextBox1.RightMargin = MaxLen
-        Dim a = WrapText(RichTextBox1.Text, 60)
+        Dim formWidth = Me.Size.Width
+        Dim wrapLength As Integer = formWidth / 6
+        Dim a = WrapText(RichTextBox1.Text, wrapLength)
         RichTextBox1.Text = ""
         For Each word As String In a
             RichTextBox1.Text &= word + Environment.NewLine
         Next
+        Me.Text = $"{formWidth} + {wrapLength}"
 
     End Sub
 

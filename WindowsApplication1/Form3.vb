@@ -8,6 +8,18 @@
     Dim AnsOnDisplay As Boolean = False
     Dim DotInserted As Boolean = False
 
+    Private Sub Form3_Load(sender As System.Object, e As System.EventArgs) _
+    Handles MyBase.Load
+        Me.Text = "Calculator"
+        Clear_Values()
+        Update_label()
+        'Form4.Show()
+        f4 = New Form4()
+        f4.Show()
+        'Form1.Show()
+        'Form2.Show()
+    End Sub
+
     Private Sub Clear_Values()
         display.Text = ""
         a = 0
@@ -58,17 +70,6 @@
 
     End Sub
 
-    Private Sub Form3_Load(sender As System.Object, e As System.EventArgs) _
-    Handles MyBase.Load
-        Me.Text = "Calculator"
-        Clear_Values()
-        Update_label()
-        'Form4.Show()
-        f4 = New Form4()
-        f4.Show()
-        'Form1.Show()
-        'Form2.Show()
-    End Sub
 
     Private Sub Button_click(sender As System.Object, e As System.EventArgs) _
     Handles one.Click, two.Click, three.Click, four.Click, five.Click,

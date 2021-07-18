@@ -36,4 +36,25 @@
         form.MdiParent = Me
         form.Show()
     End Sub
+
+    Private Sub NotepadToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles NotepadToolStripMenuItem.Click
+        AddChild(Form7)
+    End Sub
+
+    Private Sub Form1ToolStripMenuItem_Click(sender As Object, e As EventArgs) _
+        Handles Form5ToolStripMenuItem.Click
+        AddChild(Form5)
+    End Sub
+
+    Private Sub Form6ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Form6ToolStripMenuItem.Click
+        AddChild(Form6)
+    End Sub
+
+    Private Sub Form8ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Form8ToolStripMenuItem.Click
+        AddChild(Form8)
+    End Sub
+
+    Private Sub Form9ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Form9ToolStripMenuItem.Click
+        AddChild(Form9)
+    End Sub
 End Class

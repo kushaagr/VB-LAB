@@ -53,7 +53,7 @@ Partial Class Form7
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.FileToolStripMenuItem, Me.EditToolStripMenuItem, Me.FormatToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(336, 28)
+        Me.MenuStrip1.Size = New System.Drawing.Size(336, 30)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -160,10 +160,10 @@ Partial Class Form7
         'RichTextBox1
         '
         Me.RichTextBox1.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.RichTextBox1.Location = New System.Drawing.Point(0, 28)
+        Me.RichTextBox1.Location = New System.Drawing.Point(0, 30)
         Me.RichTextBox1.Margin = New System.Windows.Forms.Padding(0)
         Me.RichTextBox1.Name = "RichTextBox1"
-        Me.RichTextBox1.Size = New System.Drawing.Size(336, 243)
+        Me.RichTextBox1.Size = New System.Drawing.Size(336, 241)
         Me.RichTextBox1.TabIndex = 1
         Me.RichTextBox1.Text = "WrapText(TextBox1.Text, 30)WrapText(TextBox1.Text, 30)WrapText(TextBox1.Text, 30)" &
     ""
@@ -176,7 +176,6 @@ Partial Class Form7
         Me.ClientSize = New System.Drawing.Size(336, 271)
         Me.Controls.Add(Me.RichTextBox1)
         Me.Controls.Add(Me.MenuStrip1)
-        Me.IsMdiContainer = True
         Me.Location = New System.Drawing.Point(10, 10)
         Me.MainMenuStrip = Me.MenuStrip1
         Me.Name = "Form7"
